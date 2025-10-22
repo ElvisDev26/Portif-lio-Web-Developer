@@ -1,0 +1,207 @@
+html{
+    background-image: url(./Plano_de_Fundo/plano\ de\ fundo\ para\ portfólio.png);
+    background-size: cover;
+
+}
+body{
+    margin: 10px;
+    width: auto;
+    height: 880px;
+    display: flex;
+    background-color: hwb(127 20% 29% / 0);
+    text-align: center;
+}
+
+/* TITULO PRIMARIO DE INICIAÇÃO*/
+
+.cartaoprincipal1{
+    background-color: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(7px);
+    border: 1px solid white;
+    width: 450px;
+    height: 400px;
+    margin-top: 250px;
+    margin-left: 100px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.titulo1{
+    background-color: rgba(161, 159, 184, 0);
+    font-size: 60px;
+    color: #a1139c;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ptitulo{
+    border: 1px solid white;
+      border-bottom-left-radius: 40px;
+    border-bottom-right-radius:40px ;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    font-style: italic;
+    
+
+}
+
+.titulo2{
+    background-color: rgba(69, 19, 187, 0);
+    border: 1px solid white;
+    font-size: 40px;
+    color: rgb(228, 215, 236);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*CARTOES DE ICONES*/
+
+
+.icones{
+   display: flex;
+   justify-content: center;
+}
+
+  /* JUSTIFICAÇÃO DE ICONES*/
+
+.css{
+    margin-left: 40px;
+}
+
+.js{
+    margin-left: 40px;
+}
+
+  /* VISUAL DE ICONES*/
+
+   .foto1{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   }
+   .foto2{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   }
+   .foto3{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius:15px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+   }
+
+
+    /*INTRODUÇÃO AO CARTAO DE VISITAS*/
+
+   .Cartaodevisita{
+    border: 1px solid white;
+    margin-top: 40px;
+    margin-left: 140px;
+    width: 600px;
+    height: 800px;
+    backdrop-filter: blur(7px);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   }
+
+   
+
+   .fotodeperfil{
+    background-image: url(./Foto_de_perfil/foto\ de\ perfil.jpeg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 1px solid white;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius:100px ;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+   }
+
+    .nome1{
+        color: #ffffff;
+        background-color: rgba(0, 0, 0, 0);
+        font-size: 50px;
+        margin-left: 30px;
+        margin-top: 60px;
+    }
+
+    .nome2{
+        color: #b615b0;
+        background-color: #a1139c00;
+        font-size: 25px;
+        margin-top: 110px;
+        margin-left: -70px;
+    }
+
+    .um{
+    display: flex;
+   }
+
+    .dois{
+    margin-top: 15px;
+    border: 1px solid rgb(158, 18, 179);
+    border-bottom-right-radius:40px ;
+    border-top-left-radius: 40px;
+   }
+
+    .descricao{
+        color: #ffffff;
+    }
+
+    .tres{
+        display: flex;
+        justify-content: center;
+    }
+
+    .card1{
+        background-color: rgba(78, 72, 72, 0.218);
+        color: #ffffff;
+        width: 150px;
+        height: 170px;
+        margin-top: 30px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius:20px ;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    a:hover{
+        margin-left: 10px;
+        background-color: black;
+        padding: 50px;
+    }
+
+    .card2{
+        background-color: rgb(255, 255, 255);
+        width: 150px;
+        height: 170px;
+        margin-left: 30px;
+        margin-top: 30px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius:20px ;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    .card3{
+        background-color: rgb(255, 255, 255);
+        width: 150px;
+        height: 170px;
+        margin-left: 30px;
+        margin-top: 30px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius:20px ;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    
